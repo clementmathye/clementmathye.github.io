@@ -18,7 +18,7 @@ What I Build
 | Project | Focus | Status |
 |---|---|---|
 | [AI Receptionist & Lead-Recovery System](https://github.com/clementmathye/ai-receptionist-lead-recovery-system) | Vapi, Make.com, APIs, WhatsApp, error handling | In development |
-| [Lead Operations Intelligence Dashboard](https://github.com/clementmathye/lead-operations-intelligence-dashboard) | Power BI, DAX, data modelling, CRM analytics | Planned |
+| [Lead Operations Intelligence Dashboard]([https://github.com/clementmathye/lead-operations-intelligence-dashboard](https://github.com/clementmathye/lead-operations-intelligence-dashboard)) | Power BI, DAX, data modelling, CRM analytics | Live |
 | [Local SEO Performance Analytics](https://github.com/clementmathye/local-seo-performance-analytics) | GBP, Search Console, reporting, local growth | Planned |
 | [Usability Research Case Study](https://github.com/clementmathye/usability-research-case-study) | UX research, task analysis, prioritised improvements | Planned |
 
@@ -31,7 +31,7 @@ What I Build
 
 Open To
 
-Remote, contract, fixed-term, and project-based opportunities in:
+Remote, contract, fixed-term, full-time and project-based opportunities in:
 
 - Business systems and automation
 - Implementation and solutions consulting
