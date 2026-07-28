@@ -44,7 +44,7 @@ Remote, contract, fixed-term, full-time and project-based opportunities in:
 Connect
 
 - LinkedIn: www.linkedin.com/in/clement-mathye
-- Portfolio: clementmathye1
+- Portfolio: https://clementmathye.github.io
 - Email: mathyenhlahla@gmail.com
 
 ---
