@@ -2,6 +2,8 @@ Hi, I'm Clement Mathye 👋
 
 **BCIS Graduate | Automation & Business Systems Builder | Founder at VBProject**
 
+Core Stack: Microsoft Power BI (DAX, Power Query) | SQL | APIs & Webhooks | Make.com | Vapi AI | Git | Webflow | CRM Automation
+
 I build practical systems that help service businesses capture leads, automate follow-up, and turn operational data into useful decisions.
 
 My work combines **AI voice workflows, APIs, webhooks, CRM processes, Power BI dashboards, Google Sheets, local-search analytics, and client implementation**.
