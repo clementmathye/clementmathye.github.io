@@ -23,6 +23,7 @@ My work combines business intelligence modeling, API integrations, CRM workflow 
 | [AI Receptionist & Lead-Recovery System](https://github.com/clementmathye/ai-receptionist-lead-recovery-system) | Vapi, Make.com, APIs, WhatsApp, error handling | Live |
 | [Santam Claims & Underwriting Intelligence](https://github.com/clementmathye/santam-insurance-claims-loss-ratio-intelligence) | Power BI, DAX, Star Schema, Loss Ratio, Financial Services | Live |
 | [Lead Operations Intelligence Dashboard](https://github.com/clementmathye/lead-operations-intelligence-dashboard) | Power BI, DAX, data modelling, CRM analytics | Live |
+| [Market Analyst Operations & KPI Audit Hub](https://github.com/clementmathye/market-analyst-operations-hub) | Excel Data Modeling, KPI Auditing, Financial & Operations Analytics | Live |
 | [Local SEO Performance Analytics](https://github.com/clementmathye/local-seo-performance-analytics) | GBP, Search Console, reporting, local growth | Planned |
 | [Usability Research Case Study](https://github.com/clementmathye/usability-research-case-study) | UX research, task analysis, prioritised improvements | Planned |
 
