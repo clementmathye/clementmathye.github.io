@@ -20,10 +20,11 @@ My work combines business intelligence modeling, API integrations, CRM workflow 
 
 | Project | Focus | Status |
 | :--- | :--- | :--- |
-| [AI Receptionist & Lead-Recovery System](https://github.com/clementmathye/ai-receptionist-lead-recovery-system) | Vapi, Make.com, APIs, WhatsApp, error handling | Live |
+| [Dis-Chem Retail ESG Assurance Hub](https://github.com/clementmathye/dischem-pharmacies-retail-esg-assurance-hub) | Power BI, DAX, JSE & GRI ESG Accounting, Scope 1/2, NEMWA Waste, King IV | Live |
 | [Santam Claims & Underwriting Intelligence](https://github.com/clementmathye/santam-insurance-claims-loss-ratio-intelligence) | Power BI, DAX, Star Schema, Loss Ratio, Financial Services | Live |
 | [Lead Operations Intelligence Dashboard](https://github.com/clementmathye/lead-operations-intelligence-dashboard) | Power BI, DAX, data modelling, CRM analytics | Live |
 | [Market Analyst Operations & KPI Audit Hub](https://github.com/clementmathye/market-analyst-operations-hub) | Excel Data Modeling, KPI Auditing, Financial & Operations Analytics | Live |
+| [AI Receptionist & Lead-Recovery System](https://github.com/clementmathye/ai-receptionist-lead-recovery-system) | Vapi, Make.com, APIs, WhatsApp, error handling | Live |
 | [Local SEO Performance Analytics](https://github.com/clementmathye/local-seo-performance-analytics) | GBP, Search Console, reporting, local growth | Planned |
 | [Usability Research Case Study](https://github.com/clementmathye/usability-research-case-study) | UX research, task analysis, prioritised improvements | Planned |
 
@@ -31,7 +32,8 @@ My work combines business intelligence modeling, API integrations, CRM workflow 
 
 ## Current Focus
 
-* Engineering enterprise-grade Power BI models across short-term insurance and commercial sales operations.
+* Engineering enterprise-grade Power BI models across short-term insurance and retail pharmacy ESG operations.
+* Architecting JSE & GRI-aligned corporate ESG assurance hubs (carbon accounting, solar offsets, municipal billing assurance).
 * Deploying voice-AI receptionist and missed-call recovery architectures for service businesses.
 * Deepening SQL relational query optimization, star schema architectures, and business analysis methodologies.
 * Preparing for the Microsoft Certified: Power BI Data Analyst Associate (PL-300) certification.
